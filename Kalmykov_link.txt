@@ -1,6 +1,6 @@
 Ссылка на Я.диск с работой:
 https://disk.yandex.ru/d/4Pi1e78tE3gUhQ?w=1
-Ссылка на ГитХаб:
+Ссылка на GitHub:
 https://github.com/Vampir007one/Python.git
 
 Инструкция по Гиту:
