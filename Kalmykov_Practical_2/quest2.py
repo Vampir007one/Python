@@ -1,0 +1,13 @@
+print("Ваши фамилия и имя?")
+surnameName = str(input())
+print("В какой стране Вы живёте?")
+country = str(input())
+print("В каком крае Вы живёте?")
+kray = str(input())
+print("В каком городе вы живёте?")
+townCity = str(input())
+
+print("Ваши имя, фамилия:", surnameName)
+print("Вы живёте в стране:", country)
+print("Вы живёте в крае:", kray)
+print("Вы живёте в городе:", townCity)
